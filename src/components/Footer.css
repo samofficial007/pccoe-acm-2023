@@ -1,0 +1,9 @@
+.footer{
+    border:2px solid rgb(170, 27, 210);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:auto;
+    height: 200px;
+    margin-top: 200px;
+}
