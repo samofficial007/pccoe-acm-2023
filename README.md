@@ -3,7 +3,7 @@
 1. Fork the repository 
 
 2. Clone using the following repo link
-   #### `git clone https://github.com/Adityalad-25/pccoe-acm-2023.git`
+   #### `git clone https://github.com/your-username/pccoe-acm-2023.git`
 
 3. Go to the project folder and run npm install
    #### `cd pccoe-acm-2023`
